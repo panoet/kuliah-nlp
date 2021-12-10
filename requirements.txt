@@ -16,4 +16,4 @@ scipy==1.4.1              # via seaborn
 seaborn==0.10.1
 six==1.15.0               # via cycler, python-dateutil
 torch==1.10.0
-#ntlk==3.0.0
+nltk==3.4.5
